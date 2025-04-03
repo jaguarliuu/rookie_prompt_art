@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 # Privacy Policy
 
 Last updated: April 2, 2025
@@ -50,3 +51,8 @@ For questions or concerns about this policy, contact the developer:
 ---
 
 By using Prompt Art, you agree to this privacy policy.
+=======
+## Privacy
+
+!!! Please fill in the privacy policy of the plugin.
+>>>>>>> Stashed changes

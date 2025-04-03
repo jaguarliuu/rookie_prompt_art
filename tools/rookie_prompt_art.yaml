@@ -78,6 +78,10 @@ parameters:
           en_US: divination
           zh_Hans: 占卜
         value: divination
+      - label:
+          en_US: history war
+          zh_Hans: 历史上的那些战争
+        value: history_war
 extra:
   python:
     source: tools/rookie_prompt_art.py
