@@ -3,15 +3,15 @@ type: plugin
 author: jaguarliuu
 name: rookie_prompt_art
 label:
-  en_US: rookie_prompt_art
-  ja_JP: rookie_prompt_art
-  zh_Hans: rookie_prompt_art
-  pt_BR: rookie_prompt_art
+  en_US: Prompt Art
+  ja_JP: プロンプトアート
+  zh_Hans: 大模型提示词之美
+  pt_BR: Arte de Prompt
 description:
-  en_US: ' 大模型提示词之美-prompt art'
-  ja_JP: ' 大模型提示词之美-prompt art'
-  zh_Hans: ' 大模型提示词之美-prompt art'
-  pt_BR: ' 大模型提示词之美-prompt art'
+  en_US: 'The art of crafting effective prompts for large language models'
+  ja_JP: '大規模言語モデルのための効果的なプロンプト作成の技術'
+  zh_Hans: '大模型提示词创作的艺术与技巧'
+  pt_BR: 'A arte de criar prompts eficazes para modelos de linguagem grandes'
 icon: art.svg
 resource:
   memory: 268435456

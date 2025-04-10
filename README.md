@@ -5,7 +5,6 @@
 **Type:** tool
 
 ### Description
-<<<<<<< Updated upstream
 #### Prompt Art · Smart SVG Card Generator
 
 **Prompt Art** is an intelligent SVG card generator plugin powered by LLMs.  
@@ -52,8 +51,3 @@ It turns your natural language prompts into beautifully styled SVG image cards.
 #### 📄 License
 
 MIT License
-=======
-
-
-
->>>>>>> Stashed changes

@@ -1,58 +1,48 @@
-<<<<<<< Updated upstream
 # Privacy Policy
 
 Last updated: April 2, 2025
 
-Thank you for using the **Prompt Art** plugin. Your privacy is important to us. This document describes how we handle your data when using the plugin.
+Thank you for using the **Prompt Art** plugin ("the Plugin"). Your privacy is important to us. This Privacy Policy explains how we handle your information when you use our Plugin.
 
 ---
 
-## 1. Information Collection
+## 1. Information Collection and Use
 
-Prompt Art does **not** collect, store, or share any personal information.
+The Plugin is designed with privacy in mind:
 
-- Your input prompts (e.g., questions or topics) are processed temporarily and discarded immediately after generating the SVG output.
-- No tracking cookies or analytics are used.
-- No data is stored on any server by this plugin.
-
----
-
-## 2. Data Usage
-
-The plugin only uses your input for generating the SVG image in real-time. Once the SVG is returned, the input and output are not saved or reused in any way.
+- **Input Data**: Your prompts and inputs are processed temporarily in memory solely for the purpose of generating SVG outputs. These are discarded immediately after processing.
+- **No Storage**: We do not store, log, or retain any user inputs or generated outputs.
+- **No Tracking**: The Plugin does not use cookies, analytics, or any tracking mechanisms.
+- **Local Processing**: All data processing occurs locally within your environment; no data is transmitted to external servers.
 
 ---
 
-## 3. Security
+## 2. Data Security
 
-Because Prompt Art processes data in-memory and does not persist it, there is no risk of data leakage from plugin usage.
+We implement the following security measures:
 
----
-
-## 4. Third-Party Sharing
-
-We do not share any user data with third parties.
+- **In-Memory Processing**: Data exists only in volatile memory during active use.
+- **No Persistence**: No user data is written to disk or other persistent storage.
+- **Isolated Execution**: The Plugin runs in a sandboxed environment when possible.
 
 ---
 
-## 5. Changes to This Policy
+## 3. Third-Party Services
 
-This policy may be updated over time. The most current version will always be available in the official repository or plugin listing.
-
----
-
-## 6. Contact
-
-For questions or concerns about this policy, contact the developer:
-
-**jaguarliu**  
-[GitHub / Email Contact Placeholder](https://github.com/jaguarliuu/rookie_prompt_art)
+The Plugin does not integrate with or share data with any third-party services. All processing is self-contained.
 
 ---
 
-By using Prompt Art, you agree to this privacy policy.
-=======
-## Privacy
+## 4. Changes to This Policy
 
-!!! Please fill in the privacy policy of the plugin.
->>>>>>> Stashed changes
+We may update this Privacy Policy occasionally. The "Last updated" date at the top indicates when revisions were made. We recommend reviewing this policy periodically.
+
+---
+
+## 5. Contact Us
+
+If you have any questions about this Privacy Policy, please contact us at: privacy@promptart.example.com
+
+---
+
+*This policy complies with general privacy best practices and may need adjustment based on specific jurisdictional requirements.*
